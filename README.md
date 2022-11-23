@@ -38,5 +38,4 @@ bye bye...
 see influx.sh for importing the data into an influx/grafana stack.
 
 ![image](https://user-images.githubusercontent.com/10135145/203664407-d3e9d9f0-c003-46a6-9bf8-511ae1e9eff8.png)
-![image](https://user-images.githubusercontent.com/10135145/203664408-c2c90bda-ad35-4a7c-a269-950d11b82970.png)
 
